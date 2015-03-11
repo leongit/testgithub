@@ -1,2 +1,3 @@
 # testgithub
-Github tutorial
+*************
+testgithub is a repository for showing the bare minimum, function etc.
